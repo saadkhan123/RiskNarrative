@@ -45,11 +45,11 @@ Test results should be handled by designated reporting tool
 The tests are first written in a simple scenario form that describes the expected behavior of the system from the users perpective. 
 Cucumber must be easily read 
 
-
 Note: Any popup windows like “Accept cookies” must be handled gracefully. 
 
 # Technologies
 
 Stack: Java, Selenium, Cucumber
+
 Reporting: TestNG, JUnit, Serenity BDD 
 
