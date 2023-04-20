@@ -52,3 +52,4 @@ Note: Any popup windows like “Accept cookies” must be handled gracefully.
 
 Stack: Java, Selenium, Cucumber
 Reporting: TestNG, JUnit, Serenity BDD 
+
