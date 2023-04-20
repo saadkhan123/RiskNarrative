@@ -36,6 +36,10 @@ In Choose your Industry Tab, Under Industries Select Financial Services
 -	Collections & Recovery
 -	Tracing and Investigations 
 
+# Report
+
+Test results should be handled by designated reporting tool
+
 # Criteria
 
 The tests are first written in a simple scenario form that describes the expected behavior of the system from the users perpective. 
@@ -46,4 +50,5 @@ Note: Any popup windows like “Accept cookies” must be handled gracefully.
 
 # Technologies
 
-Stack: Java, Selenium, Cucumber 
+Stack: Java, Selenium, Cucumber
+Reporting: TestNG, JUnit, Serenity BDD 
