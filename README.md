@@ -1,4 +1,4 @@
-# QA-Test-1
+# Automation-Exercise-1
 
 # Overview
 
